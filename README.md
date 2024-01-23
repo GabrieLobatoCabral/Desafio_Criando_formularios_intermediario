@@ -1,12 +1,12 @@
 # 🚀 Desafio - Criando Formulários (intermediário)
 
-![preview](/github/preview.png)
+![preview](https://github.com/GabrieLobatoCabral/Desafio_Criando_formularios_intermediario/assets/113934416/969caf83-7333-4c6b-ad07-b018a976dad5)
 
 > Rocketseat One
 
 Projeto construído no curso explore da Rocketseat🚀.
 
-[📎 Clique aqui para acessar](https://gabrielobatocabral.github.io/listagem-marvel/)
+[📎 Clique aqui para acessar](https://gabrielobatocabral.github.io/Desafio_Criando_formularios_intermediario/)
 
 ## 🛠️ Tecnologias
 
